@@ -16,3 +16,6 @@ C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduin
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Debug\arduino.Form1.resources
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Debug\arduino.Properties.Resources.resources
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\bin\Debug\arduino.exe.config
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Debug\arduino.exe
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Debug\arduino.pdb
