@@ -1,0 +1,9 @@
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\bin\Release\arduino.exe.config
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\bin\Release\arduino.exe
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\bin\Release\arduino.pdb
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.Form1.resources
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.Properties.Resources.resources
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.csproj.GenerateResource.Cache
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.exe
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.pdb
+C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.csprojResolveAssemblyReference.cache
