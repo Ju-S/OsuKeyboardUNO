@@ -7,3 +7,12 @@ C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduin
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.exe
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.pdb
 C:\Users\김주성\Google 드라이브\정리해야됨\c#\ArduinoKeyboard\arduino\obj\Release\arduino.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\bin\Release\arduino.exe.config
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.exe
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.pdb
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\bin\Release\arduino.exe
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\bin\Release\arduino.pdb
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.Form1.resources
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.Properties.Resources.resources
+D:\Visual Studio\Project\UNOKB\c#\ArduinoKeyboard\arduino\obj\Release\arduino.csproj.GenerateResource.Cache

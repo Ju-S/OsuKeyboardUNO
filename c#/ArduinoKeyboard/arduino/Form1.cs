@@ -61,7 +61,7 @@ namespace arduino
                 KBThread.Run(portList.SelectedItem.ToString());
         }
 
-        public void CpuChk()  //cpu의 할당율을 체크하여 쓰레드의 종료여부를 판단
+        public void CpuChk()  //0.3초 간격으로 USBRefresh실행
         {
             while (true)
             {
@@ -76,17 +76,17 @@ namespace arduino
             CloseProgram();
         }
 
-        private void 열기ToolStripMenuItem_Click(object sender, EventArgs e)  //트레이아이콘 숨기기
+        private void 열기ToolStripMenuItem_Click(object sender, EventArgs e)  //트레이아이콘으로
         {
             NotifyOrForm(true);
         }
 
-        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)   //폼으로
         {
             NotifyOrForm(true);
         }
 
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e)  //트레이아이콘 보이기
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             CloseProgram();
         }
@@ -95,8 +95,7 @@ namespace arduino
         {
             if (WindowState == FormWindowState.Minimized)
             {
-                notifyIcon1.Visible = true;
-                ShowInTaskbar = false;
+                NotifyOrForm(false);
             }
         }
 
@@ -109,9 +108,15 @@ namespace arduino
         private void NotifyOrForm(bool mode)  //true = 폼, false = 트레이아이콘
         {
             if (mode)
+            {
+                FormBorderStyle = FormBorderStyle.FixedSingle;
                 WindowState = FormWindowState.Normal;
+            }
             else
+            {
+                FormBorderStyle = FormBorderStyle.FixedToolWindow;
                 WindowState = FormWindowState.Minimized;
+            }
             ShowInTaskbar = mode;
             notifyIcon1.Visible = !mode;
         }
